@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Accessing Servlet from Android</string>
+    <string name="app_name">SimpleHttpGetServlet</string>
+    <string name="button">Invoke Servlet</string>
+    <string name="title_activity_light">LightActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_acc">AccActivity</string>
+    <string name="title_activity_update">UpdateActivity</string>
+
+</resources>
